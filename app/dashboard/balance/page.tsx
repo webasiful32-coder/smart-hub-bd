@@ -35,7 +35,7 @@ export default function RechargePage() {
 
     const paymentNumbers = {
         bKash: "01628329060",
-        Nagad: "01781200267"
+        Nagad: "01628329060"
     };
 
     const handleCopy = (num: string, type: string) => {
